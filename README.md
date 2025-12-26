@@ -1,2 +1,1 @@
-# awesome-pytorch
-Awesome PyTorch
+# Awesome PyTorch
