@@ -1,6 +1,12 @@
 <div align="center">
+    <p align="center">
+        <a href="https://wikipedia.org/wiki/PyTorch">
+          <img width="35%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/PyTorch_logo.svg" />
+        </a>
+    </p>
+
   
-# **`Awesome`** [PyTorch](https://wikipedia.org/wiki/PyTorch) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# **`Awesome`** [PyTorch](https://pytorch.org/) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()
