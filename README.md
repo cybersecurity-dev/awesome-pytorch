@@ -5,7 +5,6 @@
         </a>
     </p>
 
-  
 # **`Awesome`** [PyTorch](https://pytorch.org/) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 
