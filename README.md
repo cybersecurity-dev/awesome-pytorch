@@ -32,12 +32,23 @@
 ## Installation Steps
 
 * Linux
-  ```powershell
-  ```
-
+    * CPU
+        ```bash
+        pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+        ```
+    * GPU
+        ```bash
+        pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu130
+        ```
 * Windows
-  ```bash
-  ```
+  * CPU
+      ```powershell
+      pip3 install torch torchvision
+      ```
+  * GPU
+      ```powershell
+      pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu130
+      ```
 
 ##
 
