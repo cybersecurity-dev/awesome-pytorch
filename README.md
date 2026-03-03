@@ -49,6 +49,10 @@
       ```powershell
       pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu130
       ```
+Test
+```shell
+python -c "import torch; print(torch.__version__)"
+```
 
 ##
 
